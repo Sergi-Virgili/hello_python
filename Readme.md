@@ -1,2 +1,2 @@
 # Hello Python
-## Bye python
+## Clase de introducción a Python
